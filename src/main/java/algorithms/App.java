@@ -1,10 +1,5 @@
-package airhacks;
+package algorithms;
 
-
-/**
- *
- * @author airhacks.com
- */
 interface App {
 
     static void main(String... args) {
